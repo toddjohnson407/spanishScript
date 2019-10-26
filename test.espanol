@@ -1,0 +1,5 @@
+
+mudable test = 'spanish yay'
+
+anotas('test');
+

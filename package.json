@@ -1,0 +1,19 @@
+{
+  "name": "spanishscript",
+  "version": "1.0.0",
+  "description": "JS Spanish Transpiler",
+  "main": "lexer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toddjohnson407/spanishScript.git"
+  },
+  "author": "toddjohnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toddjohnson407/spanishScript/issues"
+  },
+  "homepage": "https://github.com/toddjohnson407/spanishScript#readme"
+}
